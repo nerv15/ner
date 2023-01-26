@@ -23,7 +23,7 @@ body {
 .box {
     width: 15px;
     height: 15px;
-    background: rgb(255, 255, 255);
+    background: rgb(52, 60, 60);
     box-shadow: 0 0 2px 0 red;
     transition: 2s;
 }
